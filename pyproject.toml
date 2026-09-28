@@ -1,0 +1,34 @@
+[project]
+name = "data-quality-toolkit"
+version = "0.3.0"
+description = "Perfil e validação de qualidade de dados em CSV, Parquet e PostgreSQL"
+readme = "README.md"
+requires-python = ">=3.11"
+license = "MIT"
+authors = [
+    { name = "Caio Vinícius Barbosa Barros", email = "caio@dynamicmotioncentury.com.br" },
+]
+keywords = ["qualidade de dados", "data quality", "perfil", "validacao", "deriva"]
+dependencies = [
+    "pandas>=2.2",
+    "rich>=13.0",
+]
+
+[project.optional-dependencies]
+# Só quem for validar tabela no Postgres precisa disso.
+postgres = ["psycopg[binary]>=3.1", "python-dotenv>=1.0"]
+parquet = ["pyarrow>=15.0"]
+
+[project.urls]
+# A chave vai entre aspas porque TOML só aceita letra sem acento em chave nua.
+"Repositório" = "https://github.com/caio-vinicius-dmc/data-quality-toolkit"
+
+[project.scripts]
+dq = "dq.cli:main"
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]

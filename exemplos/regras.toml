@@ -1,0 +1,62 @@
+# Regras de qualidade para a base de clientes.
+#
+# Ponto de partida gerado por "dq sugerir" e depois ajustado a mão: o
+# gerador descreve o dado como ele esta, e boa parte do trabalho e decidir
+# o que é defeito e o que é apenas variação aceitável.
+
+[dataset]
+minimo_de_linhas = 300
+colunas_obrigatorias = [
+    "id_cliente", "nome", "email", "idade", "uf",
+    "cidade", "renda_mensal", "data_cadastro", "canal_origem", "ativo",
+]
+
+[[coluna]]
+nome = "id_cliente"
+nao_nulo = true
+unico = true
+
+[[coluna]]
+nome = "nome"
+nao_nulo = true
+tamanho_maximo = 80
+
+[[coluna]]
+nome = "email"
+nao_nulo = true
+unico = true
+formato = '[^@\s]+@[^@\s]+\.[A-Za-z]{2,}'
+# Um punhado de e-mails torto não justifica barrar a carga inteira, mas
+# precisa aparecer no relatório. Acima de 3% vira falha.
+maximo_de_falhas_pct = 3.0
+
+[[coluna]]
+nome = "idade"
+nao_nulo = true
+entre = [18, 110]
+
+[[coluna]]
+nome = "uf"
+nao_nulo = true
+dominio = ["SP", "RJ", "MG", "PR", "RS", "BA", "PE", "CE", "GO", "SC"]
+
+[[coluna]]
+nome = "renda_mensal"
+# Renda em branco e esperado: nem todo cadastro informa.
+maximo_de_nulos_pct = 15.0
+entre = [0, 200000]
+
+[[coluna]]
+nome = "data_cadastro"
+nao_nulo = true
+formato = '\d{4}-\d{2}-\d{2}'
+
+[[coluna]]
+nome = "canal_origem"
+nao_nulo = true
+dominio = ["site", "app", "indicacao", "loja"]
+
+[[coluna]]
+nome = "ativo"
+nao_nulo = true
+dominio = ["true", "false"]

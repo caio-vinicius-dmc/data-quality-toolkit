@@ -1,0 +1,421 @@
+id_cliente,nome,email,idade,uf,cidade,renda_mensal,data_cadastro,canal_origem,ativo
+1,Marina Almeida,marina.almeida1@exemplo.invalido,56,PR,Curitiba,,2024-09-11,app,true
+2,Isabela Almeida,isabela.almeida2@exemplo.invalido,61,GO,Goiânia,22673.57,2024-04-01,loja,true
+3,Nelson Martins,nelson.martins3@exemplo.invalido,31,SC,Florianópolis,25234.67,2025-01-17,loja,true
+4,Elisa Ferreira,elisa.ferreira4@exemplo.invalido,72,MG,Belo Horizonte,18960.24,2024-03-25,site,false
+5,Karina Almeida,karina.almeida5@exemplo.invalido,35,SP,São Paulo,18711.06,2025-03-11,app,false
+1,Sérgio Souza,sergio.souza6@exemplo.invalido,51,CE,Fortaleza,28226.73,2025-09-12,loja,true
+7,Lucas Oliveira,lucas.oliveira7@exemplo.invalido,78,PR,Curitiba,28797.25,2024-06-13,loja,true
+8,Renata Oliveira,renata.oliveira8@exemplo.invalido,25,SP,São Paulo,3847.85,2025-04-30,loja,true
+9,Nelson Souza,nelson.souza9@exemplo.invalido,37,MG,Belo Horizonte,20363.47,2025-01-25,indicacao,true
+10,Renata Almeida,renata.almeida10@exemplo.invalido,75,PR,Curitiba,25084.6,2024-02-26,app,false
+1,Isabela Rodrigues,isabela.rodrigues11@exemplo.invalido,70,PE,Recife,24433.5,2024-12-28,loja,true
+12,Elisa Martins,elisa.martins12@exemplo.invalido,56,MG,Belo Horizonte,,2024-05-07,site,true
+13,Elisa Pereira,elisa.pereira13@exemplo.invalido,29,MG,Belo Horizonte,14594.51,2024-07-31,indicacao,false
+14,Heitor Pereira,heitor.pereira14@exemplo.invalido,72,RJ,Rio de Janeiro,26061.29,2024-07-09,site,false
+15,Ana Martins,ana.martins15@exemplo.invalido,39,SP,São Paulo,9213.76,2025-02-12,indicacao,false
+16,Marina Almeida,marina.almeida16@exemplo.invalido,52,BA,Salvador,5776.07,2024-02-08,indicacao,false
+17,Olívia Santos,olivia.santos17@exemplo.invalido,72,RS,Porto Alegre,21390.49,2025-10-31,indicacao,true
+18,Karina Santos,karina.santos18@exemplo.invalido,42,PR,Curitiba,11439.27,2024-03-23,loja,false
+19,Isabela Souza,isabela.souza19@exemplo.invalido,36,GO,Goiânia,28420.32,2024-11-24,loja,true
+20,Isabela Almeida,isabela.almeida20@exemplo.invalido,44,RS,Porto Alegre,30113.57,2025-09-17,app,false
+21,Marina Martins,marina.martins21@exemplo.invalido,60,SC,Florianópolis,23072.16,2024-07-18,loja,false
+22,Gabriela Costa,gabriela.costa22@exemplo.invalido,60,SP,São Paulo,13077.04,2024-10-29,app,true
+23,Isabela Almeida,isabela.almeida23@exemplo.invalido,44,PR,Curitiba,,2024-12-19,loja,true
+24,Diego Rodrigues,diego.rodrigues24@exemplo.invalido,30,GO,Goiânia,3235.93,2024-11-13,app,false
+25,Gabriela Pereira,gabriela.pereira25@exemplo.invalido,47,PE,Recife,18778.37,2025-10-03,indicacao,true
+26,Ana Souza,ana.souza26@exemplo.invalido,22,RS,Porto Alegre,19338.21,2024-02-29,loja,false
+27,Lucas Rodrigues,lucas.rodrigues27@exemplo.invalido,54,SC,Florianópolis,,2024-04-12,loja,false
+28,Fábio Pereira,fabio.pereira28@exemplo.invalido,39,CE,Fortaleza,6771.43,2024-05-13,loja,false
+29,Nelson Rodrigues,nelson.rodrigues29@exemplo.invalido,41,MG,Belo Horizonte,10154.66,2024-10-07,loja,false
+30,Fábio Ferreira,fabio.ferreira30@exemplo.invalido,75,SC,Florianópolis,20598.67,2025-05-02,app,true
+31,Sérgio Santos,sergio.santos31@exemplo.invalido,51,CE,Fortaleza,,2024-12-03,loja,true
+32,Karina Silva,karina.silva32@exemplo.invalido,61,SC,Florianópolis,18017.73,2025-10-10,site,false
+33,Nelson Pereira,nelson.pereira33@exemplo.invalido,26,MG,Belo Horizonte,19550.37,2024-02-18,loja,true
+34,Bruno Costa,bruno.costa34@exemplo.invalido,32,GO,Goiânia,18636.39,2024-10-26,app,false
+35,Bruno Almeida,bruno.almeida35@exemplo.invalido,69,PR,Curitiba,,2025-05-11,app,false
+36,Isabela Costa,isabela.costa36@exemplo.invalido,53,RJ,Rio de Janeiro,28742.83,2025-07-26,app,false
+37,Sérgio Souza,sergio.souza37@exemplo.invalido,64,RJ,Rio de Janeiro,6694.46,2024-05-20,app,true
+38,Bruno Rodrigues,bruno.rodrigues38@exemplo.invalido,28,PE,Recife,13038.66,2024-08-25,app,false
+39,Bruno Costa,bruno.costa39@exemplo.invalido,30,PE,Recife,,2024-04-23,app,false
+40,Renata Silva,renata.silva40@exemplo.invalido,42,PR,Curitiba,28687.4,2024-04-09,app,false
+41,Vitor Souza,vitor.souza41@exemplo.invalido,74,MG,Belo Horizonte,27950.3,2024-06-19,loja,false
+42,Isabela Costa,isabela.costa42@exemplo.invalido,20,SC,Florianópolis,19444.76,2024-01-21,indicacao,true
+43,Elisa Silva,elisa.silva43@exemplo.invalido,69,RS,Porto Alegre,18656.88,2024-10-24,site,false
+44,Nelson Souza,nelson.souza44@exemplo.invalido,40,SP,São Paulo,7757.94,2025-11-30,indicacao,false
+45,Karina Silva,karina.silva45@exemplo.invalido,70,PE,Recife,10724.74,2024-08-20,app,true
+46,João Almeida,joao.almeida46@exemplo.invalido,50,PE,Recife,23094.03,2024-08-21,app,false
+47,Bruno Santos,bruno.santos47@exemplo.invalido,59,PR,Curitiba,,2025-08-03,site,false
+48,Ana Martins,ana.martins48@exemplo.invalido,71,SP,São Paulo,8816.6,2024-07-03,indicacao,true
+49,Isabela Oliveira,isabela.oliveira49@exemplo.invalido,66,SC,Florianópolis,15171.48,2024-01-04,site,false
+50,Olívia Souza,olivia.souza50@exemplo.invalido,55,MG,Belo Horizonte,9686.2,2025-03-21,app,false
+51,Vitor Souza,vitor.souza51@exemplo.invalido,50,BA,Salvador,7644.63,2025-08-09,loja,true
+52,Diego Almeida,diego.almeida52@exemplo.invalido,30,SC,Florianópolis,,2024-06-26,app,false
+53,Heitor Oliveira,heitor.oliveira53@exemplo.invalido,28,RS,Porto Alegre,21310.95,2025-11-19,site,true
+54,Heitor Rodrigues,heitor.rodrigues54@exemplo.invalido,61,PR,Curitiba,22798.74,2025-02-08,site,true
+55,Isabela Costa,isabela.costa55@exemplo.invalido,39,SC,Florianópolis,16980.35,2024-04-09,site,true
+56,Nelson Silva,nelson.silva56@exemplo.invalido,30,BA,Salvador,28920.79,2025-11-09,indicacao,true
+57,Isabela Pereira,isabela.pereira57@exemplo.invalido,54,SP,São Paulo,17942.74,2024-07-19,indicacao,true
+58,Fábio Costa,fabio.costa58@exemplo.invalido,27,PE,Recife,22565.32,2025-06-27,indicacao,true
+59,Olívia Silva,olivia.silva59@exemplo.invalido,40,SP,São Paulo,9638.48,2025-09-14,site,false
+60,Ana Costa,ana.costa60@exemplo.invalido,74,BA,Salvador,13632.4,2025-07-05,app,true
+61,Ana Silva,ana.silva61@exemplo.invalido,31,MG,Belo Horizonte,9374.91,2025-09-27,indicacao,true
+62,Ana Almeida,ana.almeida62@exemplo.invalido,60,RJ,Rio de Janeiro,15316.56,2025-01-13,loja,false
+63,Sérgio Almeida,sergio.almeida63@exemplo.invalido,75,GO,Goiânia,21120.47,2024-11-30,indicacao,true
+64,Isabela Rodrigues,isabela.rodrigues64@exemplo.invalido,22,PR,Curitiba,29062.93,2024-08-12,indicacao,false
+65,Vitor Souza,vitor.souza65@exemplo.invalido,74,RS,Porto Alegre,11729.41,2025-10-01,app,true
+1,Olívia Ferreira,olivia.ferreira66@exemplo.invalido,19,GO,Goiânia,19933.47,2024-09-25,site,false
+67,Diego Silva,diego.silva67@exemplo.invalido,49,RS,Porto Alegre,24454.97,2025-03-28,loja,false
+68,Renata Santos,renata.santos68@exemplo.invalido,62,SC,Florianópolis,18061.47,2024-04-18,indicacao,false
+69,Gabriela Souza,gabriela.souza69@exemplo.invalido,77,SC,Florianópolis,10977.92,2025-05-16,indicacao,true
+70,Ana Silva,ana.silva70@exemplo.invalido,23,SC,Florianópolis,20831.92,2025-02-23,app,false
+1,Tatiana Martins,tatiana.martins71@exemplo.invalido,19,SP,São Paulo,6573.91,2024-11-24,app,true
+72,Diego Silva,diego.silva72@exemplo.invalido,71,PE,Recife,29292.26,2024-10-20,app,true
+73,João Oliveira,joao.oliveira73@exemplo.invalido,24,PE,Recife,,2024-07-08,loja,false
+74,Diego Souza,diego.souza74@exemplo.invalido,78,RS,Porto Alegre,17833.55,2024-09-13,app,false
+75,Diego Silva,diego.silva75@exemplo.invalido,71,SC,Florianópolis,5141.51,2025-04-29,loja,true
+76,João Martins,joao.martins76@exemplo.invalido,31,CE,Fortaleza,,2025-05-28,indicacao,false
+1,Isabela Rodrigues,isabela.rodrigues77@exemplo.invalido,199,RS,Porto Alegre,,2024-10-17,app,true
+1,Karina Rodrigues,karina.rodrigues78@exemplo.invalido,69,MG,Belo Horizonte,17169.27,2025-09-20,indicacao,true
+1,Heitor Rodrigues,heitor.rodrigues79@exemplo.invalido,68,PE,Recife,7219.4,2024-01-01,indicacao,false
+80,Tatiana Souza,tatiana.souza80@exemplo.invalido,45,SP,São Paulo,,2025-04-13,site,true
+81,Ana Santos,ana.santos81@exemplo.invalido,67,RJ,Rio de Janeiro,9919.21,2024-07-15,site,true
+82,Isabela Pereira,isabela.pereira82@exemplo.invalido,70,MG,Belo Horizonte,18628.21,2025-10-18,app,true
+83,Vitor Souza,vitor.souza83@exemplo.invalido,19,BA,Salvador,30046.77,2024-08-11,indicacao,false
+84,Karina Rodrigues,karina.rodrigues84@exemplo.invalido,46,SP,São Paulo,,2024-09-13,loja,false
+85,Gabriela Costa,gabriela.costa85@exemplo.invalido,20,MG,Belo Horizonte,,2025-07-20,app,true
+86,Renata Martins,renata.martins86@exemplo.invalido,63,PE,Recife,16438.5,2024-06-16,indicacao,true
+87,Renata Rodrigues,renata.rodrigues87exemplo.invalido,19,RS,Porto Alegre,3656.35,2025-08-30,indicacao,true
+1,Elisa Almeida,elisa.almeida88@exemplo.invalido,22,SP,São Paulo,,2025-11-20,indicacao,false
+1,Fábio Rodrigues,fabio.rodrigues89@exemplo.invalido,62,BA,Salvador,29755.96,2024-04-12,indicacao,true
+90,Karina Almeida,karina.almeida90@exemplo.invalido,58,PR,Curitiba,7580.57,2024-06-28,site,false
+91,Marina Almeida,marina.almeida91@exemplo.invalido,52,GO,Goiânia,13749.15,2025-08-29,loja,false
+92,Diego Santos,diego.santos92exemplo.invalido,26,BA,Salvador,4954.59,2025-11-28,site,true
+93,Lucas Almeida,lucas.almeida93@exemplo.invalido,55,BA,Salvador,9785.63,2024-05-07,indicacao,false
+94,Nelson Oliveira,nelson.oliveira94@exemplo.invalido,60,MG,Belo Horizonte,27852.75,2024-05-12,indicacao,true
+95,Sérgio Rodrigues,sergio.rodrigues95@exemplo.invalido,34,GO,Goiânia,,2025-02-25,app,false
+96,João Almeida,joao.almeida96@exemplo.invalido,23,PE,Recife,26486.13,2024-12-19,site,false
+97,Heitor Ferreira,heitor.ferreira97@exemplo.invalido,49,RJ,Rio de Janeiro,27656.07,2024-09-04,site,true
+98,Olívia Souza,olivia.souza98@exemplo.invalido,53,BA,Salvador,29803.34,2025-10-20,indicacao,true
+99,Carla Silva,carla.silva99@exemplo.invalido,64,PR,Curitiba,23631.91,2024-01-16,loja,true
+100,Renata Ferreira,renata.ferreira100@exemplo.invalido,58,CE,Fortaleza,23166.89,2024-08-09,site,true
+101,Elisa Almeida,elisa.almeida101@exemplo.invalido,74,MG,Belo Horizonte,6691.31,2025-07-16,loja,false
+102,Vitor Silva,vitor.silva102@exemplo.invalido,37,SP,São Paulo,4771.73,2024-02-03,app,false
+103,Lucas Ferreira,lucas.ferreira103@exemplo.invalido,36,MG,Belo Horizonte,19153.89,2024-06-02,site,false
+104,Tatiana Costa,tatiana.costa104@exemplo.invalido,71,GO,Goiânia,8784.79,2025-02-28,indicacao,true
+105,Renata Pereira,renata.pereira105@exemplo.invalido,71,CE,Fortaleza,5406.47,2025-02-26,indicacao,false
+106,Paulo Silva,paulo.silva106@exemplo.invalido,29,GO,Goiânia,24615.53,2024-02-01,indicacao,true
+107,Fábio Silva,fabio.silva107@exemplo.invalido,51,MG,Belo Horizonte,,2024-11-02,indicacao,false
+108,Marina Costa,marina.costa108@exemplo.invalido,28,PE,Recife,27781.41,2025-01-18,app,true
+109,Elisa Rodrigues,elisa.rodrigues109@exemplo.invalido,47,CE,Fortaleza,10918.01,2025-05-07,indicacao,true
+110,Karina Martins,karina.martins110@exemplo.invalido,62,MG,Belo Horizonte,20354.8,2025-05-30,loja,true
+111,Olívia Santos,olivia.santos111@exemplo.invalido,25,GO,Goiânia,25255.77,2025-02-10,indicacao,false
+112,Sérgio Costa,sergio.costa112@exemplo.invalido,31,BA,Salvador,22772.29,2024-04-01,app,true
+1,Marina Oliveira,marina.oliveira113@exemplo.invalido,63,PR,Curitiba,,2024-08-23,indicacao,true
+114,Fábio Silva,fabio.silva114@exemplo.invalido,23,SP,São Paulo,,2025-01-23,app,false
+115,Olívia Costa,olivia.costa115@exemplo.invalido,18,GO,Goiânia,,2025-10-30,loja,false
+116,Karina Pereira,karina.pereira116@exemplo.invalido,57,MG,Belo Horizonte,28892.2,2025-05-07,indicacao,true
+117,Paulo Ferreira,paulo.ferreira117@exemplo.invalido,29,CE,Fortaleza,15838.93,2025-06-15,loja,false
+118,Sérgio Ferreira,sergio.ferreira118@exemplo.invalido,47,SC,Florianópolis,,2025-05-10,site,false
+119,Gabriela Souza,gabriela.souza119@exemplo.invalido,49,BA,Salvador,3522.44,2025-03-22,indicacao,true
+120,Gabriela Oliveira,gabriela.oliveira120@exemplo.invalido,77,RJ,Rio de Janeiro,28488.39,2025-03-15,site,true
+121,Elisa Martins,elisa.martins121@exemplo.invalido,26,PR,Curitiba,29739.74,2024-09-16,site,false
+122,Bruno Silva,bruno.silva122@exemplo.invalido,20,PR,Curitiba,8551.65,2025-09-09,app,true
+123,Renata Silva,renata.silva123@exemplo.invalido,47,MG,Belo Horizonte,10548.78,2024-12-26,indicacao,false
+124,Karina Santos,karina.santos124@exemplo.invalido,19,RS,Porto Alegre,21148.78,2024-04-17,app,true
+125,Gabriela Almeida,gabriela.almeida125@exemplo.invalido,67,RS,Porto Alegre,,2025-01-12,indicacao,true
+126,Paulo Costa,paulo.costa126@exemplo.invalido,68,RS,Porto Alegre,,2025-10-25,loja,true
+127,Paulo Silva,paulo.silva127@exemplo.invalido,52,RS,Porto Alegre,20014.87,2024-12-05,site,true
+128,Nelson Costa,nelson.costa128@exemplo.invalido,29,SP,São Paulo,13560.25,2025-01-09,indicacao,false
+129,Karina Pereira,karina.pereira129@exemplo.invalido,28,PE,Recife,19964.7,2024-08-24,indicacao,true
+130,Carla Ferreira,carla.ferreira130@exemplo.invalido,68,RJ,Rio de Janeiro,5467.48,2024-07-26,site,false
+131,Marina Costa,marina.costa131@exemplo.invalido,72,PR,Curitiba,,2024-05-15,indicacao,false
+1,Fábio Silva,fabio.silva132@exemplo.invalido,38,BA,Salvador,8500.57,2024-10-02,loja,true
+133,Fábio Martins,fabio.martins133@exemplo.invalido,60,SP,São Paulo,4917.99,2024-02-03,indicacao,false
+134,Paulo Oliveira,paulo.oliveira134@exemplo.invalido,26,SP,São Paulo,11195.51,2024-12-28,indicacao,true
+1,Karina Santos,karina.santos135@exemplo.invalido,33,SP,São Paulo,10242.5,2024-04-25,site,true
+136,Ana Martins,ana.martins136@exemplo.invalido,38,PR,Curitiba,,2025-01-03,app,true
+137,Gabriela Almeida,gabriela.almeida137@exemplo.invalido,47,GO,Goiânia,,2024-07-20,loja,true
+138,João Rodrigues,joao.rodrigues138@exemplo.invalido,63,SP,São Paulo,9278.45,2024-12-14,loja,true
+139,Diego Rodrigues,diego.rodrigues139@exemplo.invalido,29,SP,São Paulo,4070.4,2024-07-21,indicacao,false
+140,Ana Souza,ana.souza140@exemplo.invalido,28,RJ,Rio de Janeiro,3636.69,2024-03-30,site,true
+1,Carla Souza,carla.souza141@exemplo.invalido,64,SP,São Paulo,,2024-10-02,indicacao,false
+142,Fábio Ferreira,fabio.ferreira142@exemplo.invalido,56,PE,Recife,4504.01,2024-07-03,loja,true
+143,Renata Ferreira,renata.ferreira143exemplo.invalido,77,BA,Salvador,5318.22,2024-06-27,indicacao,false
+144,Vitor Silva,vitor.silva144@exemplo.invalido,60,PR,Curitiba,8774.48,2025-06-11,indicacao,true
+145,Vitor Ferreira,vitor.ferreira145@exemplo.invalido,35,RJ,Rio de Janeiro,,2025-03-02,app,true
+146,Bruno Oliveira,bruno.oliveira146@exemplo.invalido,69,CE,Fortaleza,,2024-07-06,app,true
+147,Fábio Almeida,fabio.almeida147@exemplo.invalido,55,RJ,Rio de Janeiro,,2024-09-28,site,true
+148,Gabriela Rodrigues,gabriela.rodrigues148@exemplo.invalido,19,GO,Goiânia,22019.45,2025-03-27,loja,false
+149,Tatiana Pereira,tatiana.pereira149@exemplo.invalido,46,GO,Goiânia,6811.48,2025-04-20,indicacao,false
+150,Heitor Rodrigues,heitor.rodrigues150@exemplo.invalido,73,SC,Florianópolis,6222.26,2024-05-18,site,true
+151,Fábio Martins,fabio.martins151@exemplo.invalido,74,PR,Curitiba,27515.69,2024-05-08,loja,false
+152,Ana Pereira,ana.pereira152@exemplo.invalido,29,PE,Recife,21856.0,2025-09-04,site,true
+153,Vitor Santos,vitor.santos153@exemplo.invalido,65,GO,Goiânia,10207.36,2024-05-15,app,false
+154,Lucas Martins,lucas.martins154@exemplo.invalido,28,CE,Fortaleza,12745.73,2025-11-20,app,true
+155,Isabela Pereira,isabela.pereira155@exemplo.invalido,57,PR,Curitiba,17298.36,2024-04-14,loja,true
+156,Paulo Pereira,paulo.pereira156@exemplo.invalido,47,RS,Porto Alegre,29444.96,2024-06-26,app,false
+157,Ana Rodrigues,ana.rodrigues157@exemplo.invalido,35,CE,Fortaleza,3689.37,2025-01-08,site,false
+1,Elisa Martins,elisa.martins158@exemplo.invalido,35,GO,Goiânia,18809.6,2024-05-22,loja,true
+159,Sérgio Costa,sergio.costa159@exemplo.invalido,27,PR,Curitiba,26208.09,2025-06-08,site,false
+160,Diego Martins,diego.martins160@exemplo.invalido,37,PE,Recife,,2025-02-12,loja,true
+161,Vitor Souza,vitor.souza161@exemplo.invalido,55,CE,Fortaleza,27135.48,2025-09-02,indicacao,true
+162,Lucas Costa,lucas.costa162@exemplo.invalido,62,RJ,Rio de Janeiro,22032.5,2025-10-20,site,true
+163,Heitor Pereira,heitor.pereira163@exemplo.invalido,31,SC,Florianópolis,25364.21,2025-08-02,loja,true
+164,João Santos,joao.santos164@exemplo.invalido,70,PE,Recife,,2024-09-18,site,true
+165,Gabriela Martins,gabriela.martins165@exemplo.invalido,23,RJ,Rio de Janeiro,13807.05,2025-06-29,loja,true
+166,Gabriela Martins,gabriela.martins166@exemplo.invalido,75,PE,Recife,11491.82,2024-04-18,site,true
+167,Karina Ferreira,karina.ferreira167@exemplo.invalido,32,MG,Belo Horizonte,,2024-03-20,site,false
+168,Heitor Rodrigues,heitor.rodrigues168@exemplo.invalido,48,RS,Porto Alegre,8738.07,2025-07-27,indicacao,false
+169,Tatiana Martins,tatiana.martins169@exemplo.invalido,64,BA,Salvador,7948.74,2024-05-19,app,true
+170,Nelson Ferreira,nelson.ferreira170@exemplo.invalido,34,sp,Fortaleza,,2025-01-23,indicacao,true
+1,Vitor Rodrigues,vitor.rodrigues171@exemplo.invalido,31,SP,São Paulo,,2025-11-25,site,false
+172,Nelson Rodrigues,nelson.rodrigues172@exemplo.invalido,61,SP,São Paulo,9280.33,2024-04-05,loja,false
+173,Paulo Silva,paulo.silva173@exemplo.invalido,32,PR,Curitiba,5303.92,2025-06-29,loja,true
+174,Elisa Santos,elisa.santos174@exemplo.invalido,42,BA,Salvador,21275.32,2025-11-05,indicacao,true
+175,Tatiana Martins,tatiana.martins175@exemplo.invalido,20,CE,Fortaleza,24178.19,2025-02-26,loja,true
+176,Ana Costa,ana.costa176exemplo.invalido,38,GO,Goiânia,8619.49,2025-01-08,site,true
+177,Paulo Pereira,paulo.pereira177@exemplo.invalido,41,CE,Fortaleza,20553.89,2025-02-04,app,true
+178,Carla Martins,carla.martins178@exemplo.invalido,20,GO,Goiânia,17737.74,2024-11-21,indicacao,false
+1,Bruno Silva,bruno.silva179@exemplo.invalido,29,CE,Fortaleza,7555.77,2024-10-21,loja,false
+1,Bruno Santos,bruno.santos180@exemplo.invalido,54,RS,Porto Alegre,16526.9,2025-08-16,loja,true
+181,Gabriela Martins,gabriela.martins181@exemplo.invalido,49,RJ,Rio de Janeiro,17936.17,2024-08-09,app,false
+182,Karina Souza,karina.souza182@exemplo.invalido,50,CE,Fortaleza,6256.86,2025-09-06,app,true
+183,Renata Oliveira,renata.oliveira183@exemplo.invalido,32,PE,Recife,25852.42,2024-09-17,app,true
+184,Ana Pereira,ana.pereira184@exemplo.invalido,40,RS,Porto Alegre,16243.38,2024-07-22,loja,false
+185,Tatiana Pereira,tatiana.pereira185@exemplo.invalido,51,RJ,Rio de Janeiro,,2025-10-14,site,false
+186,Heitor Oliveira,heitor.oliveira186@exemplo.invalido,18,BA,Salvador,,2024-05-15,loja,true
+187,Karina Rodrigues,karina.rodrigues187@exemplo.invalido,68,PE,Recife,,2025-01-23,indicacao,true
+188,Carla Costa,carla.costa188@exemplo.invalido,63,SC,Florianópolis,7762.29,2024-05-24,site,true
+189,Sérgio Costa,sergio.costa189@exemplo.invalido,20,PE,Recife,12290.35,2024-10-23,indicacao,true
+190,Carla Santos,carla.santos190@exemplo.invalido,36,SP,São Paulo,5900.09,2024-03-27,loja,true
+191,João Rodrigues,joao.rodrigues191@exemplo.invalido,75,RJ,Rio de Janeiro,,2024-08-16,app,true
+192,Lucas Souza,lucas.souza192@exemplo.invalido,50,BA,Salvador,10398.79,2025-03-16,site,true
+193,Tatiana Ferreira,tatiana.ferreira193@exemplo.invalido,40,MG,Belo Horizonte,21058.09,2025-07-09,indicacao,false
+194,Diego Martins,diego.martins194@exemplo.invalido,28,SP,São Paulo,20048.68,2024-03-09,app,false
+195,Renata Ferreira,renata.ferreira195@exemplo.invalido,31,GO,Goiânia,,2025-10-14,loja,false
+196,Fábio Santos,fabio.santos196@exemplo.invalido,56,CE,Fortaleza,12562.87,2025-04-04,site,true
+197,Tatiana Silva,tatiana.silva197@exemplo.invalido,43,BA,Salvador,10249.51,2024-09-02,indicacao,false
+198,Carla Oliveira,carla.oliveira198@exemplo.invalido,21,SC,Florianópolis,5161.52,2025-08-08,indicacao,true
+199,Fábio Santos,fabio.santos199@exemplo.invalido,29,PE,Recife,,2025-08-21,site,true
+200,Karina Silva,karina.silva200@exemplo.invalido,46,PE,Recife,10393.53,2025-01-14,app,true
+201,Nelson Santos,nelson.santos201@exemplo.invalido,35,SC,Florianópolis,,2024-08-27,site,false
+202,Bruno Silva,bruno.silva202@exemplo.invalido,22,RJ,Rio de Janeiro,20128.77,2025-09-12,site,false
+203,Fábio Santos,fabio.santos203@exemplo.invalido,54,GO,Goiânia,30091.41,2025-09-01,app,false
+204,Olívia Martins,olivia.martins204@exemplo.invalido,26,PE,Recife,10313.07,2024-07-26,loja,false
+205,Marina Ferreira,marina.ferreira205@exemplo.invalido,40,RS,Porto Alegre,16841.86,2025-09-08,app,false
+1,Sérgio Oliveira,sergio.oliveira206@exemplo.invalido,31,BA,Salvador,19295.03,2025-07-26,loja,false
+207,Olívia Rodrigues,olivia.rodrigues207@exemplo.invalido,37,RS,Porto Alegre,26935.18,2025-01-01,app,false
+208,Fábio Pereira,fabio.pereira208@exemplo.invalido,37,RJ,Rio de Janeiro,4592.42,2025-03-14,app,false
+209,Diego Almeida,diego.almeida209@exemplo.invalido,43,MG,Belo Horizonte,5882.43,2025-04-17,loja,true
+210,Bruno Silva,bruno.silva210@exemplo.invalido,49,GO,Goiânia,19426.61,2025-09-13,app,true
+211,Diego Silva,diego.silva211@exemplo.invalido,49,BA,Salvador,17724.29,2025-08-30,indicacao,true
+212,Isabela Costa,isabela.costa212@exemplo.invalido,70,SC,Florianópolis,14137.52,2024-04-09,site,false
+213,Fábio Santos,fabio.santos213@exemplo.invalido,30,GO,Goiânia,21471.05,2024-01-06,app,true
+214,Lucas Oliveira,lucas.oliveira214@exemplo.invalido,29,RS,Porto Alegre,26195.67,2024-01-27,indicacao,false
+215,Isabela Souza,isabela.souza215@exemplo.invalido,30,RJ,Rio de Janeiro,,2025-10-13,indicacao,false
+216,Gabriela Costa,gabriela.costa216@exemplo.invalido,42,RS,Porto Alegre,,2025-06-28,site,false
+217,Diego Costa,diego.costa217@exemplo.invalido,18,SC,Florianópolis,17075.65,2025-07-25,site,false
+218,Elisa Oliveira,elisa.oliveira218@exemplo.invalido,47,PE,Recife,12883.09,2025-02-12,app,false
+219,Paulo Almeida,paulo.almeida219@exemplo.invalido,46,BA,Salvador,20143.39,2025-03-23,app,false
+220,Isabela Souza,isabela.souza220@exemplo.invalido,55,RJ,Rio de Janeiro,21559.18,2024-06-07,loja,false
+221,Fábio Ferreira,fabio.ferreira221@exemplo.invalido,42,GO,Goiânia,6460.64,2025-09-02,indicacao,true
+222,Ana Souza,ana.souza222@exemplo.invalido,18,SC,Florianópolis,4651.71,2025-01-20,indicacao,false
+223,Marina Souza,marina.souza223@exemplo.invalido,58,GO,Goiânia,7239.76,2024-05-07,loja,false
+224,Gabriela Oliveira,gabriela.oliveira224@exemplo.invalido,68,SP,São Paulo,16664.02,2024-09-23,site,true
+225,Bruno Almeida,bruno.almeida225@exemplo.invalido,20,MG,Belo Horizonte,14285.74,2024-03-08,indicacao,true
+226,Heitor Costa,heitor.costa226@exemplo.invalido,65,GO,Goiânia,10929.46,2025-08-24,site,false
+227,Ana Silva,ana.silva227@exemplo.invalido,60,BA,Salvador,7040.56,2025-10-13,site,false
+228,Paulo Martins,paulo.martins228@exemplo.invalido,29,GO,Goiânia,15889.64,2024-04-24,site,false
+229,Isabela Oliveira,isabela.oliveira229@exemplo.invalido,74,RJ,Rio de Janeiro,,2025-04-15,loja,true
+1,Lucas Costa,lucas.costa230@exemplo.invalido,28,SP,São Paulo,11599.46,2025-08-06,loja,true
+231,Bruno Martins,bruno.martins231@exemplo.invalido,62,GO,Goiânia,6394.19,2025-06-26,indicacao,true
+232,Bruno Oliveira,bruno.oliveira232@exemplo.invalido,37,BA,Salvador,,2025-01-18,site,true
+233,Elisa Almeida,elisa.almeida233@exemplo.invalido,78,RS,Porto Alegre,8740.05,2025-07-16,app,false
+234,Paulo Rodrigues,paulo.rodrigues234@exemplo.invalido,26,SP,São Paulo,18733.75,2025-02-28,indicacao,false
+235,Ana Almeida,ana.almeida235@exemplo.invalido,61,GO,Goiânia,28668.31,2025-07-02,loja,false
+236,Marina Santos,marina.santos236@exemplo.invalido,26,RJ,Rio de Janeiro,11348.43,2025-06-24,loja,true
+237,Heitor Costa,heitor.costa237@exemplo.invalido,71,PE,Recife,,2024-10-24,app,true
+238,Vitor Almeida,vitor.almeida238@exemplo.invalido,57,SC,Florianópolis,16522.24,2025-06-03,loja,true
+239,Renata Rodrigues,renata.rodrigues239@exemplo.invalido,31,RS,Porto Alegre,,2024-02-11,site,true
+240,Bruno Rodrigues,bruno.rodrigues240@exemplo.invalido,18,BA,Salvador,12013.9,2024-07-30,indicacao,false
+241,Gabriela Ferreira,gabriela.ferreira241@exemplo.invalido,21,PR,Curitiba,24683.62,2024-07-06,loja,true
+242,Gabriela Ferreira,gabriela.ferreira242@exemplo.invalido,33,BA,Salvador,21057.01,2025-01-08,loja,true
+243,Elisa Oliveira,elisa.oliveira243@exemplo.invalido,62,SP,São Paulo,11102.04,2025-11-21,indicacao,true
+244,Tatiana Santos,tatiana.santos244@exemplo.invalido,77,RS,Porto Alegre,21110.88,2024-01-23,app,false
+245,Heitor Souza,heitor.souza245@exemplo.invalido,72,CE,Fortaleza,8756.68,2025-04-20,app,true
+246,Heitor Rodrigues,heitor.rodrigues246@exemplo.invalido,78,CE,Fortaleza,28920.86,2025-01-19,app,false
+247,Lucas Ferreira,lucas.ferreira247@exemplo.invalido,23,RJ,Rio de Janeiro,,2024-12-02,indicacao,true
+1,Olívia Ferreira,olivia.ferreira248@exemplo.invalido,32,BA,Salvador,,2025-03-02,app,false
+1,Nelson Almeida,nelson.almeida249@exemplo.invalido,35,RJ,Rio de Janeiro,26609.25,2024-03-11,app,true
+250,Carla Martins,carla.martins250@exemplo.invalido,38,MG,Belo Horizonte,,2025-09-18,indicacao,true
+251,Karina Souza,karina.souza251@exemplo.invalido,51,MG,Belo Horizonte,9939.84,2024-01-13,site,false
+252,Paulo Martins,paulo.martins252@exemplo.invalido,28,PE,Recife,14962.41,2025-04-26,app,false
+253,João Souza,joao.souza253@exemplo.invalido,69,SP,São Paulo,5958.79,2025-03-30,loja,false
+254,Ana Almeida,ana.almeida254@exemplo.invalido,19,PE,Recife,,2025-01-17,site,false
+255,Olívia Santos,olivia.santos255@exemplo.invalido,44,RS,Porto Alegre,12414.2,2024-07-09,indicacao,false
+256,Vitor Almeida,vitor.almeida256@exemplo.invalido,26,PE,Recife,26910.54,2025-02-27,loja,true
+257,Karina Almeida,karina.almeida257@exemplo.invalido,71,CE,Fortaleza,7943.41,2024-12-21,indicacao,false
+258,Fábio Silva,fabio.silva258@exemplo.invalido,20,MG,Belo Horizonte,,2025-08-03,indicacao,true
+259,Marina Souza,marina.souza259@exemplo.invalido,22,RS,Porto Alegre,12975.69,2024-03-09,site,false
+260,Elisa Pereira,elisa.pereira260@exemplo.invalido,34,SC,Florianópolis,,2025-04-03,indicacao,true
+261,Marina Rodrigues,marina.rodrigues261@exemplo.invalido,73,SP,São Paulo,6845.64,2025-11-08,site,false
+262,Paulo Oliveira,paulo.oliveira262@exemplo.invalido,33,RJ,Rio de Janeiro,4696.96,2024-01-09,app,false
+263,Sérgio Souza,sergio.souza263@exemplo.invalido,24,SP,São Paulo,27695.51,2024-11-18,app,true
+264,João Oliveira,joao.oliveira264@exemplo.invalido,24,SC,Florianópolis,,2025-08-12,site,true
+1,Renata Silva,renata.silva265@exemplo.invalido,27,Sao Paulo,Goiânia,5508.23,2024-02-15,app,true
+266,Nelson Silva,nelson.silva266@exemplo.invalido,25,GO,Goiânia,12717.71,2025-01-31,site,false
+1,Carla Pereira,carla.pereira267@exemplo.invalido,70,RJ,Rio de Janeiro,,2024-04-16,loja,true
+268,Heitor Costa,heitor.costa268@exemplo.invalido,27,PR,Curitiba,18375.09,2024-01-11,indicacao,true
+269,Fábio Ferreira,fabio.ferreira269@exemplo.invalido,48,SC,Florianópolis,17270.58,2024-01-28,site,false
+270,Sérgio Santos,sergio.santos270@exemplo.invalido,40,PR,Curitiba,14740.1,2024-07-11,site,true
+271,Renata Costa,renata.costa271@exemplo.invalido,39,RJ,Rio de Janeiro,26145.57,2024-07-01,indicacao,false
+272,João Martins,joao.martins272@exemplo.invalido,60,SC,Florianópolis,,2024-06-09,app,true
+273,Gabriela Martins,gabriela.martins273@exemplo.invalido,33,BA,Salvador,,2025-10-26,site,true
+274,Marina Ferreira,marina.ferreira274@exemplo.invalido,50,RS,Porto Alegre,,2024-10-19,loja,false
+1,Nelson Ferreira,nelson.ferreira275@exemplo.invalido,39,GO,Goiânia,,2024-09-18,app,true
+276,Isabela Martins,isabela.martins276@exemplo.invalido,21,PE,Recife,16824.86,2025-02-15,loja,true
+277,Elisa Ferreira,elisa.ferreira277@exemplo.invalido,44,PR,Curitiba,18598.57,2025-11-29,loja,false
+278,Lucas Almeida,lucas.almeida278@exemplo.invalido,77,PE,Recife,10336.08,2024-12-31,app,true
+279,Elisa Rodrigues,elisa.rodrigues279@exemplo.invalido,53,PE,Recife,16194.53,2025-06-18,app,false
+280,Diego Oliveira,diego.oliveira280@exemplo.invalido,46,Sao Paulo,Goiânia,11453.09,2025-09-09,site,false
+281,Vitor Almeida,vitor.almeida281@exemplo.invalido,63,GO,Goiânia,,2025-08-10,loja,true
+282,Tatiana Oliveira,tatiana.oliveira282@exemplo.invalido,22,RS,Porto Alegre,19680.26,2024-05-27,indicacao,false
+283,Lucas Santos,lucas.santos283@exemplo.invalido,78,SP,São Paulo,21317.61,2024-08-04,app,false
+1,Heitor Martins,heitor.martins284@exemplo.invalido,38,BA,Salvador,15516.13,2025-08-08,app,true
+285,Carla Almeida,carla.almeida285@exemplo.invalido,38,PE,Recife,11174.93,2024-01-02,loja,false
+286,Heitor Silva,heitor.silva286@exemplo.invalido,38,RS,Porto Alegre,8715.29,2024-10-28,app,false
+1,Tatiana Costa,tatiana.costa287@exemplo.invalido,75,MG,Belo Horizonte,6493.29,2024-07-06,app,true
+288,Marina Almeida,marina.almeida288@exemplo.invalido,29,RJ,Rio de Janeiro,22196.8,2024-03-30,loja,true
+289,Elisa Ferreira,elisa.ferreira289@exemplo.invalido,66,GO,Goiânia,10526.43,2024-10-16,loja,false
+290,Lucas Almeida,lucas.almeida290@exemplo.invalido,24,PR,Curitiba,7258.37,2025-06-26,site,true
+291,Renata Martins,renata.martins291@exemplo.invalido,40,PR,Curitiba,,2025-04-30,app,false
+292,Heitor Rodrigues,heitor.rodrigues292@exemplo.invalido,47,CE,Fortaleza,28497.71,2024-02-06,indicacao,true
+293,Diego Almeida,diego.almeida293@exemplo.invalido,76,RJ,Rio de Janeiro,28552.77,2025-11-19,app,false
+294,Diego Santos,diego.santos294@exemplo.invalido,44,CE,Fortaleza,22327.64,2025-07-13,indicacao,true
+295,Sérgio Santos,sergio.santos295@exemplo.invalido,23,CE,Fortaleza,25213.6,2024-06-09,site,true
+296,Elisa Pereira,elisa.pereira296@exemplo.invalido,64,RS,Porto Alegre,20432.78,2024-02-23,loja,false
+297,Karina Ferreira,karina.ferreira297@exemplo.invalido,59,MG,Belo Horizonte,,2024-06-01,app,false
+1,Tatiana Almeida,tatiana.almeida298@exemplo.invalido,74,RJ,Rio de Janeiro,21719.55,2025-10-07,site,true
+299,Heitor Ferreira,heitor.ferreira299@exemplo.invalido,64,RS,Porto Alegre,17765.76,2024-10-27,app,false
+300,Bruno Ferreira,bruno.ferreira300@exemplo.invalido,66,PR,Curitiba,,2025-07-28,app,true
+301,Ana Silva,ana.silva301@exemplo.invalido,46,RJ,Rio de Janeiro,,2025-02-25,loja,true
+302,Carla Souza,carla.souza302@exemplo.invalido,22,RJ,Rio de Janeiro,15570.94,2025-09-21,indicacao,false
+303,Paulo Pereira,paulo.pereira303@exemplo.invalido,42,BA,Salvador,,2025-11-21,loja,false
+304,João Silva,joao.silva304@exemplo.invalido,21,SP,São Paulo,28225.53,2024-10-18,loja,true
+305,Olívia Martins,olivia.martins305@exemplo.invalido,56,GO,Goiânia,,2024-01-10,site,true
+306,Nelson Rodrigues,nelson.rodrigues306@exemplo.invalido,54,RJ,Rio de Janeiro,19111.21,2025-01-01,indicacao,false
+307,Diego Oliveira,diego.oliveira307@exemplo.invalido,27,SP,São Paulo,26047.74,2025-01-09,site,false
+308,Lucas Rodrigues,lucas.rodrigues308@exemplo.invalido,40,RS,Porto Alegre,,2025-11-13,app,false
+309,Bruno Almeida,bruno.almeida309@exemplo.invalido,29,RS,Porto Alegre,30681.2,2025-10-09,app,true
+310,Ana Almeida,ana.almeida310@exemplo.invalido,58,SP,São Paulo,18393.1,2024-10-25,loja,false
+311,Diego Santos,diego.santos311@exemplo.invalido,62,RJ,Rio de Janeiro,,2025-06-26,loja,false
+312,Gabriela Costa,gabriela.costa312@exemplo.invalido,25,sp,Curitiba,17423.28,2024-12-26,indicacao,false
+313,Fábio Almeida,fabio.almeida313@exemplo.invalido,54,MG,Belo Horizonte,,2024-05-20,loja,true
+1,Gabriela Almeida,gabriela.almeida314@exemplo.invalido,20,RJ,Rio de Janeiro,25493.18,2024-11-14,app,false
+315,Bruno Santos,bruno.santos315@exemplo.invalido,59,RJ,Rio de Janeiro,,2024-04-04,loja,true
+316,Bruno Souza,bruno.souza316@exemplo.invalido,54,MG,Belo Horizonte,19298.19,2024-01-18,loja,true
+317,Carla Souza,carla.souza317@exemplo.invalido,69,BA,Salvador,29017.96,2024-01-12,loja,true
+318,Vitor Almeida,vitor.almeida318@exemplo.invalido,34,MG,Belo Horizonte,9615.28,2024-04-06,site,false
+319,Vitor Oliveira,vitor.oliveira319@exemplo.invalido,47,RJ,Rio de Janeiro,28460.5,2025-03-01,app,false
+320,Gabriela Ferreira,gabriela.ferreira320@exemplo.invalido,22,MG,Belo Horizonte,,2025-11-12,site,true
+321,João Oliveira,joao.oliveira321@exemplo.invalido,40,SC,Florianópolis,19055.79,2024-03-10,indicacao,false
+1,Vitor Oliveira,vitor.oliveira322@exemplo.invalido,53,BA,Salvador,27363.19,2024-10-25,site,true
+323,Heitor Ferreira,heitor.ferreira323@exemplo.invalido,61,GO,Goiânia,25839.12,2025-11-07,site,true
+324,Carla Martins,carla.martins324@exemplo.invalido,35,MG,Belo Horizonte,21678.55,2025-08-13,site,false
+325,Vitor Pereira,vitor.pereira325@exemplo.invalido,19,MG,Belo Horizonte,8063.91,2025-06-19,loja,true
+326,Olívia Santos,olivia.santos326@exemplo.invalido,33,CE,Fortaleza,11615.27,2025-08-20,indicacao,true
+327,Bruno Pereira,bruno.pereira327@exemplo.invalido,66,PE,Recife,,2024-06-12,loja,true
+328,Olívia Oliveira,olivia.oliveira328@exemplo.invalido,54,CE,Fortaleza,8431.4,2024-12-01,loja,false
+329,Paulo Santos,paulo.santos329@exemplo.invalido,60,SP,São Paulo,26247.02,2024-05-11,app,true
+330,Lucas Rodrigues,lucas.rodrigues330@exemplo.invalido,29,SC,Florianópolis,30827.5,2025-03-23,loja,true
+1,Ana Silva,ana.silva331@exemplo.invalido,30,SC,Florianópolis,10665.55,2025-07-14,site,true
+332,Fábio Almeida,fabio.almeida332@exemplo.invalido,44,GO,Goiânia,28065.71,2025-07-03,site,false
+333,Diego Rodrigues,diego.rodrigues333@exemplo.invalido,50,RJ,Rio de Janeiro,11487.69,2025-03-03,site,false
+334,Renata Silva,renata.silva334@exemplo.invalido,58,BA,Salvador,24778.85,2025-06-15,loja,false
+335,João Pereira,joao.pereira335@exemplo.invalido,72,RJ,Rio de Janeiro,14335.45,2025-06-23,app,true
+336,Vitor Martins,vitor.martins336@exemplo.invalido,22,BA,Salvador,4366.3,2025-07-07,loja,true
+1,Bruno Rodrigues,bruno.rodrigues337@exemplo.invalido,45,SC,Florianópolis,7638.89,2024-01-10,indicacao,false
+338,Paulo Almeida,paulo.almeida338@exemplo.invalido,19,SP,São Paulo,28628.32,2024-11-14,app,true
+339,Carla Costa,carla.costa339@exemplo.invalido,27,BA,Salvador,,2025-05-27,indicacao,true
+340,Gabriela Pereira,gabriela.pereira340@exemplo.invalido,45,GO,Goiânia,7946.8,2025-06-15,app,true
+1,Tatiana Rodrigues,tatiana.rodrigues341@exemplo.invalido,38,SC,Florianópolis,,2025-09-13,loja,false
+342,Karina Rodrigues,karina.rodrigues342@exemplo.invalido,64,SP,São Paulo,,2024-07-21,loja,false
+343,Diego Silva,diego.silva343@exemplo.invalido,0,GO,Goiânia,,2025-05-21,app,false
+344,João Silva,joao.silva344@exemplo.invalido,54,GO,Goiânia,25787.53,2024-09-16,app,true
+345,Fábio Costa,fabio.costa345@exemplo.invalido,72,PR,Curitiba,12642.19,2025-01-21,indicacao,false
+346,Lucas Santos,lucas.santos346@exemplo.invalido,69,CE,Fortaleza,,2025-06-19,indicacao,false
+1,Ana Ferreira,ana.ferreira347@exemplo.invalido,70,CE,Fortaleza,14291.0,2024-12-07,app,true
+348,Marina Pereira,marina.pereira348@exemplo.invalido,40,SC,Florianópolis,4372.24,2025-02-01,loja,false
+349,Karina Almeida,karina.almeida349@exemplo.invalido,65,RS,Porto Alegre,11627.6,2025-04-08,indicacao,true
+350,Lucas Souza,lucas.souza350@exemplo.invalido,25,SP,São Paulo,27231.54,2024-08-15,site,false
+351,Nelson Ferreira,nelson.ferreira351@exemplo.invalido,42,PE,Recife,15990.64,2025-01-17,app,false
+352,Paulo Santos,paulo.santos352@exemplo.invalido,63,MG,Belo Horizonte,30124.95,2024-01-01,loja,true
+1,Fábio Martins,fabio.martins353@exemplo.invalido,25,GO,Goiânia,28700.76,2024-07-25,indicacao,false
+354,Nelson Martins,nelson.martins354@exemplo.invalido,73,SP,São Paulo,3542.39,2024-01-07,indicacao,true
+355,Olívia Almeida,olivia.almeida355@exemplo.invalido,56,PR,Curitiba,9878.64,2025-03-10,indicacao,true
+356,Renata Souza,renata.souza356@exemplo.invalido,58,RJ,Rio de Janeiro,30688.94,2024-06-08,loja,false
+357,Isabela Souza,isabela.souza357@exemplo.invalido,39,RJ,Rio de Janeiro,,2025-07-13,site,true
+358,Isabela Oliveira,isabela.oliveira358@exemplo.invalido,62,PE,Recife,24042.5,2025-09-24,loja,true
+359,Sérgio Almeida,sergio.almeida359@exemplo.invalido,67,SC,Florianópolis,23802.88,2024-07-22,loja,true
+360,João Martins,joao.martins360@exemplo.invalido,47,SP,São Paulo,16210.8,2025-03-26,site,true
+361,Lucas Silva,lucas.silva361@exemplo.invalido,53,PE,Recife,8051.75,2025-08-20,app,false
+362,Paulo Martins,paulo.martins362@exemplo.invalido,36,GO,Goiânia,8891.01,2024-05-02,app,true
+1,Diego Santos,diego.santos363@exemplo.invalido,39,SP,São Paulo,,2025-08-13,app,false
+364,Diego Souza,diego.souza364@exemplo.invalido,50,SC,Florianópolis,6916.1,2024-10-28,indicacao,true
+365,Elisa Rodrigues,elisa.rodrigues365@exemplo.invalido,61,RS,Porto Alegre,29388.12,2024-10-06,loja,true
+366,Marina Pereira,marina.pereira366@exemplo.invalido,78,SP,São Paulo,,2024-06-09,loja,false
+367,Ana Pereira,ana.pereira367@exemplo.invalido,50,SP,São Paulo,16203.03,2024-04-19,indicacao,false
+368,Elisa Ferreira,elisa.ferreira368@exemplo.invalido,19,BA,Salvador,18048.11,2024-01-18,loja,true
+1,Bruno Martins,bruno.martins369@exemplo.invalido,30,SP,São Paulo,26246.3,2024-10-24,indicacao,true
+370,Carla Pereira,carla.pereira370@exemplo.invalido,25,BA,Salvador,10802.4,2024-03-16,indicacao,true
+371,Fábio Martins,fabio.martins371@exemplo.invalido,48,SC,Florianópolis,15034.38,2024-04-18,app,false
+1,Tatiana Oliveira,tatiana.oliveira372@exemplo.invalido,63,SC,Florianópolis,13663.52,2025-08-05,indicacao,false
+373,Marina Rodrigues,marina.rodrigues373@exemplo.invalido,67,PR,Curitiba,,2025-10-20,indicacao,false
+374,Tatiana Souza,tatiana.souza374@exemplo.invalido,21,SP,São Paulo,14824.79,2025-06-08,app,true
+375,Karina Oliveira,karina.oliveira375@exemplo.invalido,35,SP,São Paulo,,2025-02-24,loja,true
+376,Lucas Rodrigues,lucas.rodrigues376@exemplo.invalido,44,BA,Salvador,25610.95,2025-10-12,loja,false
+377,Karina Almeida,karina.almeida377@exemplo.invalido,59,MG,Belo Horizonte,,2024-04-25,site,true
+378,Bruno Ferreira,bruno.ferreira378@exemplo.invalido,27,CE,Fortaleza,11694.91,2025-08-05,indicacao,true
+379,Carla Santos,carla.santos379@exemplo.invalido,0,PR,Curitiba,4077.3,2025-05-28,indicacao,false
+380,Lucas Ferreira,lucas.ferreira380@exemplo.invalido,37,PR,Curitiba,26288.84,2025-02-24,indicacao,false
+381,Paulo Santos,paulo.santos381@exemplo.invalido,58,GO,Goiânia,14425.45,2025-06-19,loja,true
+382,Fábio Ferreira,fabio.ferreira382@exemplo.invalido,40,PE,Recife,,2024-08-01,indicacao,false
+383,Heitor Rodrigues,heitor.rodrigues383@exemplo.invalido,63,PE,Recife,,2025-02-24,site,true
+384,Diego Santos,diego.santos384@exemplo.invalido,45,PR,Curitiba,13811.82,2025-03-16,loja,false
+385,Isabela Ferreira,isabela.ferreira385@exemplo.invalido,43,SP,São Paulo,28909.8,2024-02-19,loja,false
+386,Ana Oliveira,ana.oliveira386@exemplo.invalido,39,GO,Goiânia,,2024-12-01,app,true
+387,Gabriela Almeida,gabriela.almeida387@exemplo.invalido,31,PE,Recife,,2025-08-05,indicacao,true
+388,Bruno Pereira,bruno.pereira388@exemplo.invalido,24,PR,Curitiba,6425.59,2025-04-10,indicacao,false
+389,Tatiana Rodrigues,tatiana.rodrigues389@exemplo.invalido,35,RJ,Rio de Janeiro,21303.36,2025-03-08,site,true
+390,Carla Santos,carla.santos390@exemplo.invalido,60,SP,São Paulo,22566.14,2025-02-05,app,true
+391,Diego Pereira,diego.pereira391@exemplo.invalido,48,RJ,Rio de Janeiro,17691.24,2025-10-17,site,true
+392,Tatiana Silva,tatiana.silva392@exemplo.invalido,70,RS,Porto Alegre,26389.15,2024-09-24,indicacao,true
+393,Renata Martins,renata.martins393@exemplo.invalido,56,GO,Goiânia,,2024-01-09,indicacao,false
+394,Nelson Silva,nelson.silva394@exemplo.invalido,20,BA,Salvador,,2025-04-26,loja,false
+395,João Martins,joao.martins395@exemplo.invalido,25,RS,Porto Alegre,7511.93,2025-11-06,indicacao,false
+396,Isabela Costa,isabela.costa396@exemplo.invalido,67,CE,Fortaleza,4943.1,2025-03-31,app,true
+397,Olívia Oliveira,olivia.oliveira397@exemplo.invalido,63,GO,Goiânia,13246.99,2025-07-28,site,true
+398,Renata Santos,renata.santos398@exemplo.invalido,34,RJ,Rio de Janeiro,15214.71,2025-03-02,loja,false
+399,Vitor Silva,vitor.silva399@exemplo.invalido,63,GO,Goiânia,16843.09,2024-06-24,loja,true
+400,Paulo Santos,paulo.santos400@exemplo.invalido,26,SC,Florianópolis,,2024-02-26,indicacao,true
+1,Paulo Pereira,paulo.pereira401@exemplo.invalido,22,GO,Goiânia,9188.91,2025-10-10,site,true
+402,Lucas Almeida,lucas.almeida402@exemplo.invalido,68,MG,Belo Horizonte,23158.68,2024-06-20,site,false
+403,Elisa Costa,elisa.costa403@exemplo.invalido,36,RS,Porto Alegre,,2025-09-24,loja,false
+404,Marina Costa,marina.costa404@exemplo.invalido,31,SC,Florianópolis,,2024-09-28,site,true
+405,Gabriela Souza,gabriela.souza405@exemplo.invalido,21,PE,Recife,12012.41,2024-11-29,indicacao,false
+406,Isabela Ferreira,isabela.ferreira406@exemplo.invalido,40,RJ,Rio de Janeiro,6073.11,2024-04-08,app,false
+1,Isabela Martins,isabela.martins407@exemplo.invalido,41,SC,Florianópolis,,2025-04-27,app,false
+408,João Rodrigues,joao.rodrigues408@exemplo.invalido,40,BA,Salvador,19369.28,2025-01-13,loja,true
+409,Karina Martins,karina.martins409@exemplo.invalido,36,PE,Recife,21435.82,2024-10-24,indicacao,true
+410,Isabela Ferreira,isabela.ferreira410exemplo.invalido,45,PR,Curitiba,4155.77,2024-12-30,loja,true
+411,Nelson Pereira,nelson.pereira411@exemplo.invalido,29,RS,Porto Alegre,16571.69,2025-08-15,app,true
+412,Paulo Silva,paulo.silva412@exemplo.invalido,45,GO,Goiânia,12783.24,2024-02-22,loja,true
+1,Lucas Souza,lucas.souza413@exemplo.invalido,75,RS,Porto Alegre,13856.73,2024-05-19,loja,true
+414,Ana Rodrigues,ana.rodrigues414@exemplo.invalido,48,SP,São Paulo,28638.81,2024-04-26,site,true
+415,Lucas Ferreira,lucas.ferreira415@exemplo.invalido,61,GO,Goiânia,,2025-04-02,loja,false
+416,Olívia Santos,olivia.santos416@exemplo.invalido,57,CE,Fortaleza,15855.2,2025-03-06,site,true
+417,Marina Pereira,marina.pereira417@exemplo.invalido,55,GO,Goiânia,15442.9,2025-02-18,app,false
+418,Ana Almeida,ana.almeida418@exemplo.invalido,19,RS,Porto Alegre,9108.37,2024-09-16,indicacao,true
+419,Fábio Almeida,fabio.almeida419@exemplo.invalido,75,PR,Curitiba,18400.08,2025-09-03,site,false
+420,João Souza,joao.souza420@exemplo.invalido,67,GO,Goiânia,8653.85,2025-06-01,indicacao,false
